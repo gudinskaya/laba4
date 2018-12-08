@@ -1,0 +1,16 @@
+
+The number of seats in this ward: 4
+Doctors name: sdfgh
+There are some avaiable seats in this ward.
+
+The number of seats in this ward: 3
+Doctors name: sdfgh
+There are no avaiable seats in this ward.
+
+The number of seats in this ward: 4
+Doctors name: susan
+There are some avaiable seats in this ward.
+
+The number of seats in this ward: 3
+Doctors name: danr
+There are no avaiable seats in this ward.
